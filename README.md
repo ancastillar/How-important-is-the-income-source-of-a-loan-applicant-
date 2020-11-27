@@ -9,7 +9,7 @@
 4.   [Results](#Results) 
 5.   [Licensing, Authors,and Acknowledgements](#Licensing-,-Authors-,-and-Acknowledgements)
 
-#Installation
+## Installation
 
 It is not necessary to include any additional libraries to those already installed in the Anaconda environment. Everything was developed with Python 3.
    
