@@ -35,6 +35,9 @@ Rejecting anyone without a verified source of income is a relevant policy that l
 
 The data is downloaded from [LendingClub (LC) Statistics](https://www.lendingclub.com/info/download-data.action) and it contains all loans issued from 2007 - 2012 along with their current loan status (fully paid or charged off). There are ~50 variables that describe the borrowers and the loans; for the sake of reducing complexity, the company has already performed a pre-screening of these variables based on existing analyses from LendingClub to select nine relevant variables, such as annual income, LendingClub credit grade, home ownership, etc. *Note: We get the data from course materials of DS4A correlation*
 
+## File Descriptions
+
+
 
 ## Licensing, Authors,and Acknowledgements
 
